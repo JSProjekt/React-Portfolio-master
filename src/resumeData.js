@@ -80,53 +80,57 @@ let resumeData = {
       {
         "name":"Riding Cities",
         "description":"mobileapp",
-        "imgurl":"https://github.com/JSProjekt/Projet_2_Sicre_Jordan/blob/main/images/header.png?raw=true",
-        "preview":"https://jsprojekt.github.io/Projet_2_Sicre_Jordan/",
+        "preview":"https://github.com/JSProjekt/Projet_2_Sicre_Jordan",
+        "imgurl":"images/portfolio/ridingcities.jpg",
         "icons":["fa-html5"]
       },
       {
         "name":"Booki",
         "description":" À partir d'une maquette Figma, j'ai développé une landing page et implémenté les media queries pour la compatibilité avec les versions tablette et mobile.",
-        "imgurl":"https://github.com/JSProjekt/Projet_3_Sicre_Jordan/blob/main/images/logo/Booki@3x.png?raw=true",
-        "preview":"https://jsprojekt.github.io/Projet_3_Sicre_Jordan/",
+        "imgurl":"images/portfolio/booki.jpg",
+        "preview":"https://github.com/JSProjekt/Projet_3_Sicre_Jordan",
         "icons":["fa-html5","fa-css3"]},
       {
         "name":"Ohmyfood",
         "description":"À partir d'une maquette Figma et l'utilisation du concept mobile first, j'ai créé une page d'accueil, plusieurs pages de menus et intégré un élément de chargement.",
-        "preview":"https://jsprojekt.github.io/Openclassrooms_P4_ohmyfood/",
-        "imgurl":"https://github.com/JSProjekt/Openclassrooms_P4_ohmyfood/blob/main/16559016787093_Untitled%20design.png?raw=true",
+        "preview":"https://github.com/JSProjekt/Openclassrooms_P4_ohmyfood",
+        "imgurl":"images/portfolio/ohmyfood.jpg",
         "icons":["fa-html5","fa-css3","fa-sass"]
       },
       {
         "name":"Print it!",
         "description":"Ici j'ai fait l'intégration d'un carrousel sur un site.",
-        "preview":"https://jsprojekt.github.io/Openclassrooms_P5_Print_it/",
-        "imgurl":"https://user.oc-static.com/upload/2022/06/17/16554564334118_FR_1148_P6_Banner-Printit.png",
+        "preview":"https://github.com/JSProjekt/Openclassrooms_P5_Print_it",
+        "imgurl":"images/portfolio/printit.jpg",
         "icons":["fa-js"]
 
       },
       {
         "name":"Sophie Bluel",
         "description":"En partant d'une maquette conçue sur Figma, j'ai développé une page de connexion et mis en place l'affichage dynamique des travaux dans le portfolio via une API. J'ai intégré une modale permettant à l'administrateur du site d'ajouter ou de supprimer des travaux, conformément aux exigences du projet.",  
-        "imgurl":"https://github.com/JSProjekt/Openclassrooms_P6_SophieBluel/blob/main/FrontEnd/assets/images/sophie-bluel.png?raw=true",
+        "preview":"https://github.com/JSProjekt/Openclassrooms_P6_SophieBluel",
+        "imgurl":"images/portfolio/sophiebluel.jpg",
         "icons":["fa-html5","fa-css3","fa-sass","fa-js"]
       },
       {
         "name":"Nina Carducci",
         "description":"Ma mission était d'optimiser le site web, d'améliorer son référencement SEO, et de générer un rapport sur les optimisations effectuées.",
-        "imgurl":"images/portfolio/Nina.jpg",
+        "preview":"https://github.com/JSProjekt/ninacarducci-P8",
+        "imgurl":"images/portfolio/nina.jpg",
         "icons":["fa-"]
       },
       {
         "name":"Kasa",
         "description":"J'ai effectué la refonte d'un site d'agence immobilière. Avec l'aide d'une maquette Figma et d'un fichier JSON pour intégrer les données sur le site.",
-        "imgurl":"images/portfolio/Nina.jpg",
+        "preview":"https://github.com/JSProjekt/kasa",
+        "imgurl":"images/portfolio/Kasa.jpg",
         "icons":["fa-react","fa-sass"]
       },
       {
         "name":"ArgentBank",
         "description":"J'ai du réaliser l'intégration du système d'authentification avec Redux Toolkit et établir un mécanisme de transaction conforme avec un Swagger.",
-        "imgurl":"images/portfolio/Nina.jpg",
+        "preview":"https://github.com/JSProjekt/P10-argentBank",
+        "imgurl":"images/portfolio/argentBankLogo.jpg",
         "icons":["fa-react"]
       }
     
